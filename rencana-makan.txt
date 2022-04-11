@@ -1,6 +1,8 @@
-1. sarapan
+1. sarapan 
+  - Ayam Geybok
   - MCD
 2. makan siang
+  - Ayam Gepuk Pak Gembus
   - Sate Padang
 3. makan malam 
-  - Nasi Goreng Kencur
+  - Lele Goreng
